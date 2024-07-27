@@ -14,7 +14,7 @@ Hi, I'm Maninderjit Singh. I'm currently pursuing my undergraduate degree at GND
 
 **My excel certificate**
 
-![Excel certificate ]()
+![Excel certificate ](Photo.pdf)
 
 _I recently completed an Excel course, and it was a fantastic learning experience. The course covered everything from basic functions to advanced data analysis techniques, making it incredibly comprehensive. I now feel much more confident in my Excel skills and can apply them effectively in my projects. Highly recommend it to anyone looking to enhance their data management capabilities!_
 
